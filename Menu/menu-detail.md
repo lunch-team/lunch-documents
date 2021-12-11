@@ -1,12 +1,12 @@
 # 메뉴 목록 화면
 
-## API: 
+## 관련 API
 [/menu/getAllMenu](https://github.com/lunch-team/lunch-rest-api/wiki/Menu#메뉴-상세-조회)
 
-## 설명:
+## 설명
 선택된 단일 메뉴를 조회한다.
 
-## 기능:
+## 기능
 - 메뉴 정보 상세 조회
   - menuId가 없으면 메뉴 전체 메뉴 목록으로 이동
 - ~~메뉴 수정~~
