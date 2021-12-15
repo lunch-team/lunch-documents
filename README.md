@@ -1,7 +1,11 @@
 # "점심 뭐 먹지" 서비스의 개발문서
-"점심 뭐 먹지" 서비스의 필요한 기능을 화면 관점으로 작성
+
+## 서버 구성
+
 
 ## 화면 구성
+"점심 뭐 먹지" 서비스의 필요한 기능을 화면 관점으로 작성
+
 - 메인
   - [메뉴 목록 조회 화면](https://github.com/lunch-team/lunch-documents/blob/main/Menu/menu-list.md)
     - [메뉴 상세 조회 화면](https://github.com/lunch-team/lunch-documents/blob/main/Menu/menu-detail.md)
